@@ -1,0 +1,25 @@
+{
+"enabled": true,
+"context": "server",
+"identifier": "info.nanodesu.rescale.0.5",
+"display_name": "Nik's Tiny Units Dwonscale Mod",
+"description": "Recreate the classic SupCom 'I am watching ants' feeling. WARNING! Blance has not been adjusted and units with splash damage are much stronger! Avoid playing on small planets. Recommend playing with smaller icons mod",
+"author": "Cola_Colin, NikolaMX",
+"version": "1.0",
+"signature": "(not yet implemented)",
+"build": "120799",
+"date": "2024-07-12",
+"forum": "https://forums.planetaryannihilation.com/threads/rel-rescalepa-converter-to-create-smaller-units.64462/",
+"icon": "https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FhBT_2PhGmVcO-hZRtzek8GTIbVcUN5cT2zG73wJ_fgQ.jpg%3Fauto%3Dwebp%26s%3Dfa5b6b9cce828413fd3388c78403eb44228b563f",
+"priority": 100,
+"category": [
+  "titans",
+  "in-game",
+  "server",
+  "unit",
+  "balance",
+  "expansion"
+],
+"titansOnly": true,
+"github": "------------------------------"
+}
